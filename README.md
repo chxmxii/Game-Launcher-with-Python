@@ -7,4 +7,4 @@ A simple Tic Tac Toe game to have an overview around Python language and Pygame 
 ## Using the application
 - Clone GitHub repository
 - Install Pygame: `pip install pygame`
-- Run: `python main.py`
+- Run: `python Glauncher.py`
